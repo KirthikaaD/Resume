@@ -1,5 +1,37 @@
-{
+*{
+    font-family:'Times New Roman',Times, serif;
     font-size: 100%;
     font-weight: normal;
     margin: 0;
+}
+h1{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+p{
+    font-size: 18px;
+    
+    
+}
+h2{
+    font-size: 20px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    font-weight: bold;
+}
+table{
+    
+    border-collapse:collapse;
+    color: black;
+}
+th{
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+}
+td{
+    text-align: left;
+    padding: 8px;
 }
